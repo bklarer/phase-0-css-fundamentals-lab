@@ -2,4 +2,25 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+
+h1{
+  font-size: x-large;
+}
+
+nav{
+  padding: 10px;
+}
+
+#featured-property p {
+  margin: auto;
+  margin-top: 1em;
+  max-width: 800px;
+}
+
+#details>div{
+  float: left;
+  width: 25%;
+  background-color: red;
 }
